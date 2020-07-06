@@ -1,1 +1,7 @@
-# Movies-Coroutines-Paging
+- Dagger2
+- Retrofit
+- Kotlin
+- MVVM
+- Coroutine
+- Paging
+- Navigation
